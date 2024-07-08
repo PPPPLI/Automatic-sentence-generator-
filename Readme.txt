@@ -1,9 +1,5 @@
 # Projet-TI301---Générateur-automatique-de-phrases
 
-Lien Github: https://github.com/louart13/TP-projet-C.git
-
--Les fichiers des ressources sont dans l'autre branche
-
 l'emplacement du fichier exécutable : ../ProjetC/cmake-build-debug/ProjetC.exe
 
 NB:Avant démarrer le programme, changer le lien d'importation du dictionnaire dans le fichier importation.c  (Ligne 26)
