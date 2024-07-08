@@ -1,8 +1,8 @@
-Projet-TI301---Générateur-automatique-de-phrases
+# Projet-TI301---Générateur-automatique-de-phrases
 
 Lien Github: https://github.com/louart13/TP-projet-C.git
 
-Mode d'emploi:
+-Les fichiers des ressources sont dans l'autre branche
 
 l'emplacement du fichier exécutable : ../ProjetC/cmake-build-debug/ProjetC.exe
 
@@ -10,9 +10,13 @@ NB:Avant démarrer le programme, changer le lien d'importation du dictionnaire d
 
 if((fp = fopen(".._\\ProjetC\\dic.txt","r")) == NULL)
 
+* Mode d'emploi:
+
 1.Demarrer le programme via un IDE comme Clion ou un terminal
 
 2.Suivre les consignes pour avoir la phrase
+
+
 
 par exemple:
 
@@ -26,6 +30,8 @@ Choisissez un modèle de phrase:
 
 Valeur inserée: 1
 
-Résultat--> le schorre rhinopharyngien a fomentée l'hybridation (Base: schorre rhinopharyngien fomenter hybridation)
-
+Résultat--> le schorre rhinopharyngien a fomentée l'hybridation
+    (Base: schorre rhinopharyngien fomenter hybridation)
+    
+    
 #end
